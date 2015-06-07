@@ -1,2 +1,4 @@
-the_freemind_search
-===================
+Usage:
+========
+
+    ag `the_freemind_search yourkeyword`
